@@ -6,3 +6,8 @@ Adding some extra info here
 
 Adding new info using git command line
 
+
+### Working with forks
+
+How to syncornize a for by github and command line
+
