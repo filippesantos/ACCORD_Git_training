@@ -12,3 +12,5 @@ Adding new info using git command line
 How to syncornize a for by github and command line
 
 ### Contributing to the forked repo
+
+My contribution by command line 
