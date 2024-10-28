@@ -14,3 +14,5 @@ How to syncornize a for by github and command line
 ### Contributing to the forked repo
 
 My contribution by command line 
+
+Modifications in the central/upstream/public repo 
